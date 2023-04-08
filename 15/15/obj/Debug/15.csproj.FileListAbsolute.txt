@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\bin\Debug\15.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\bin\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\bin\Debug\15.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\_15.Пятнашки.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\15.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\15\15\obj\Debug\15.pdb
